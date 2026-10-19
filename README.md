@@ -17,6 +17,7 @@ En este laboratorio implementarás un pipeline de **despliegue Canary** sobre **
 3. **Aprobación manual** → un revisor decide si promover al 100% o hacer rollback
 4. **Promote / Rollback** → según la decisión, el tráfico se ajusta automáticamente
 
+
 ```
 push a main
      │
